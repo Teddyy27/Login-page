@@ -1,0 +1,29 @@
+@import "./typography";
+
+
+*{
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+img{
+    width: 100%;
+}
+
+body{
+    display: flex;
+    background-color:darkgreen ;
+}
+
+.container{
+    .form-container{
+        .social-icons{
+            .icon{
+                i{
+                    text-decoration: none;
+                }
+                text-decoration: none;
+            }
+        }
+    }
+}
